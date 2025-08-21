@@ -1,33 +1,18 @@
-<p><img src="https://r2.fivemanage.com/qMb3oo97IbyX4d9IgBUE5/va.png" width={200] alt="alt README header"></p>
-<h2 id="web-developer-js-nodejs--python">Web Developer (JS, NodeJS &amp; Python)</h2>
-<p>🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies!</p>
-<p>Long story short:</p>
-<p>🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat</p>
-<p>🌎 Check my <a href="https://www.ivelin.me/">portfolio</a></p>
-<p>I’m always doing some side projects, but I can’t be bothered to keep my portfolio up to date.</p>
-<p>Feel free to reach out 💬</p>
-<!--
-**Iwi4a/iwi4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/ThisIsIvoLondon">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>
+### 👋 Velkommen til VA-Scripts
 <hr>
-<p>Credits: <a href="https://github.com/Iwi4a">Ivelin Iliev</a></p>
-<p>Last Edited on: 25/11/2020</p> 
+
+
+
+[![Hjemmeside](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](https://www.va-tech.cloud/)
+![Min Profil](https://komarev.com/ghpvc/?username=ValdemarLarsen&label=Profile%20views&color=ff7c00&style=for-the-badge)
+
+### Jeg gør mig mest i:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<hr>
+
+## Community
+<p><a href="https://discord.gg/j2C5STcDut">
+  <img src="https://img.shields.io/discord/1301886866282512415?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+</a></p>
